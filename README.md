@@ -1,2 +1,3 @@
 # FuturTech Repository
 - Welcome to the FuturTech Repository! This repository is dedicated to showcasing innovative projects at the forefront of technology. Explore cutting-edge applications developed using technologies such as Python, React, Flutter, and Solidity, among others. From immersive AR/VR experiences to groundbreaking IoT solutions and innovative blockchain applications, this repository offers a curated collection of projects that explore emerging trends and advancements shaping the future of technology.
+- Visit <a href="https://github.com/kira23j/Smart-Apps"><b>Smart-Apps</b></a> Repo for AI Powered Emerging Tech web and mobile Apps.
