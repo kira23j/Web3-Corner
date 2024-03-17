@@ -1,2 +1,2 @@
-# Random-Projects
-- Explore the Random Projects section, a collection of coding projects showcasing diverse functionalities implemented with versatile technologies. Each project offers a unique perspective, employing different technologies to demonstrate coding versatility. This curated repository provides a formal and straightforward overview of varied coding endeavors.
+# FuturTech Repository
+- Welcome to the FuturTech Repository! This repository is dedicated to showcasing innovative projects at the forefront of technology. Explore cutting-edge applications developed using technologies such as Python, React, Flutter, and Solidity, among others. From immersive AR/VR experiences to groundbreaking IoT solutions and innovative blockchain applications, this repository offers a curated collection of projects that explore emerging trends and advancements shaping the future of technology.
